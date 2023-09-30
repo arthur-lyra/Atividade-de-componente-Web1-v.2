@@ -1,0 +1,44 @@
+.corpo {
+  background-image: url(https://www.researchgate.net/profile/Natalia-Jandl-Trusina/publication/356065387/figure/fig1/AS:1088428871548928@1636513073315/World-of-Warcraft-loading-Screen-132021-screenshot-by-the-author.jpg);
+  max-width: 812px;
+  height: 49%;
+  background-color: aliceblue;
+  margin-top: 50px;
+  margin-left: 50px;
+  border-radius: 5px;
+}
+.inputs {
+  width: auto;
+  margin-left: 5px;
+  border: 2px solid black;
+  background-color: aquamarine;
+}
+.mat-card-usuario {
+  text-align: center;
+  width: 25%;
+  background-color: whitesmoke;
+  border: 2px solid black;
+  border-radius: 5px;
+  margin-bottom: 5px;
+}
+.caixas {
+  text-align: center;
+  padding: 25px;
+  padding-block: 10px;
+  background-color: aqua;
+  border: 1px solid black;
+  border-radius: 5px;
+}
+.mat-card-footer {
+  display: flex;
+  justify-content: flex-end;
+}
+.titulo {
+  width: 25%;
+  text-align: center;
+  background-color: whitesmoke;
+  display: grid;
+  border: 1px solid black;
+  border-radius: 5px;
+  margin-bottom: 5px;
+}
